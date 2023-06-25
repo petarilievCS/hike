@@ -15,6 +15,7 @@
 		6AD777272A489ABB0088DED4 /* CustomBackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD777262A489ABB0088DED4 /* CustomBackgroundView.swift */; };
 		6AD7772A2A489CA80088DED4 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD777292A489CA80088DED4 /* ColorExtension.swift */; };
 		6AD7772C2A489DB80088DED4 /* ImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7772B2A489DB80088DED4 /* ImageExtension.swift */; };
+		6AD7772E2A48A0DF0088DED4 /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7772D2A48A0DF0088DED4 /* CustomButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		6AD777262A489ABB0088DED4 /* CustomBackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBackgroundView.swift; sourceTree = "<group>"; };
 		6AD777292A489CA80088DED4 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		6AD7772B2A489DB80088DED4 /* ImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageExtension.swift; sourceTree = "<group>"; };
+		6AD7772D2A48A0DF0088DED4 /* CustomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 			children = (
 				6AD777242A4899A10088DED4 /* CardView.swift */,
 				6AD777262A489ABB0088DED4 /* CustomBackgroundView.swift */,
+				6AD7772D2A48A0DF0088DED4 /* CustomButtonView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AD7772E2A48A0DF0088DED4 /* CustomButtonView.swift in Sources */,
 				6AD777182A4897940088DED4 /* ContentView.swift in Sources */,
 				6AD7772C2A489DB80088DED4 /* ImageExtension.swift in Sources */,
 				6AD777252A4899A10088DED4 /* CardView.swift in Sources */,
